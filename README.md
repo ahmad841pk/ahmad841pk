@@ -1,6 +1,8 @@
 
 ### ⚡️ Welcome to My Profile
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmad841pk&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad841pk" /> </p>
+<p align=""> <img src="https://komarev.com/ghpvc/?username=ahmad841pk&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad841pk" /> </p>
+
+
 - PHP and Javascript developer with 2+ years of experience
   - Developed multiple types of projects including ERP, CMS and e-commerce
   - Specializing in frameworks and libraries including:

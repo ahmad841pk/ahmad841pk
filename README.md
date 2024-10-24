@@ -1,5 +1,5 @@
 
-### ⚡️ Thanks for Visiting My Profile!
+### 👋 Thanks for Visiting My Profile!
 <p align=""> <img src="https://komarev.com/ghpvc/?username=ahmad841pk&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad841pk" /> </p>
 
 

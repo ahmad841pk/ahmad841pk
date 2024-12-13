@@ -8,6 +8,7 @@
   - Specializing in frameworks and libraries including:
     - Laravel
     - Vue.js
+    - Nuxt.js
     - React.js
     - Next.js
     - Node.js

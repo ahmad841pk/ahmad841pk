@@ -12,7 +12,7 @@
     - React.js
     - Next.js
     - Node.js
-- Current position: Software Engineer at The Hexaa
+- Current position: Full Stack Engineer at JoChaho/Haier
 - Containerized projects using Docker
 - Write test cases using:
   - Jest

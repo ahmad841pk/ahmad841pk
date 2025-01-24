@@ -12,7 +12,7 @@
     - React.js
     - Next.js
     - Node.js
-- Current position: Full Stack Engineer at JoChaho/Haier
+- Current position: Full Stack Engineer at JW online/JoChaho/Haier
 - Containerized projects using Docker
 - Write test cases using:
   - Jest

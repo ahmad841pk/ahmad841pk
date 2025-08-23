@@ -11,7 +11,7 @@
     - React.js
     - Next.js
     - Node.js
-- Current role: Full Stack Engineer
+- Current role: Sr. Software Engineer
 - Containerized projects using Docker/kubernetes
 - Write test cases using:
   - Jest

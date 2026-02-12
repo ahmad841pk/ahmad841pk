@@ -6,8 +6,6 @@
   - Developed multiple types of projects including ERP, CMS and e-commerce
   - Specializing in frameworks and libraries including:
     - Laravel
-    - Vue.js
-    - Nuxt.js
     - React.js
     - Next.js
     - Node.js

@@ -2,7 +2,7 @@
 <p align=""> <img src="https://komarev.com/ghpvc/?username=ahmad841pk&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad841pk" /> </p>
 
 
-- PHP and Javascript developer with 3.5+ years of experience
+- PHP and Javascript developer with 4+ years of experience
   - Developed multiple types of projects including ERP, CMS and e-commerce
   - Specializing in frameworks and libraries including:
     - Laravel

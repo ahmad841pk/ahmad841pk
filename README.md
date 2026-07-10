@@ -3,12 +3,17 @@
 
 
 - PHP and Javascript developer with 4+ years of experience
-  - Developed multiple types of projects including ERP, CMS and e-commerce
+  - Developed and maintained multiple web applications across various domains, including Travel, ERP, CMS, and E-Commerce.
   - Specializing in frameworks and libraries including:
     - Laravel
     - React.js
     - Next.js
     - Node.js
+  - Experienced in AI integration and automation using:
+    - OpenAI API
+    - Claude AI
+    - n8n
+    - AI-powered workflow automation and API integrations
 - Current role: Sr. Software Engineer
 - Containerized projects using Docker/kubernetes
 - Write test cases using:

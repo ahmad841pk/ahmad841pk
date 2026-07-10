@@ -32,4 +32,8 @@
   <img src="https://img.shields.io/badge/Gmail-Muhammad%20Ahmad-red?logo=gmail&logoColor=red&color=red" />
 </a>
 
+<a href="mailto:ahmsolstice@gmail.com" target="_blank" rel="noopener noreferrer" style='margin-left:10px'>
+  <img src="https://img.shields.io/badge/Gmail-Muhammad%20Ahmad-red?logo=gmail&logoColor=red&color=blue" />
+</a>
+
 <div>
